@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name vampire-prototype)(type Legacy)(uri ${KIPRJMOD}/vampire-prototype.lib)(options "")(descr ""))
+  (lib (name ywbl-wh-buck-boost)(type Legacy)(uri /home/chrono/tmp/ywbl-wh-buck-boost.lib)(options "")(descr ""))
+)
